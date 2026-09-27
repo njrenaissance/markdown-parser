@@ -1,0 +1,13 @@
+{
+  "cookiecutter": {
+    "project_name": "Markdown Parser",
+    "project_slug": "markdown-parser",
+    "author": "Claude",
+    "python_version": "3.12",
+    "app_config": "no",
+    "structured_logging": "no",
+    "telemetry": "no",
+    "security": "no",
+    "coding_factory": "no"
+  }
+}
